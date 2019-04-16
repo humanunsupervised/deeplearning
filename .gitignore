@@ -2,3 +2,6 @@
 *.zip
 *.csv
 *.txt
+
+data/
+
